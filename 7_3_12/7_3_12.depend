@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652817197 source:c:\users\piotrek\documents\programowaniestrukturalne2021zadaniapriv\7_3_listy_jednokierunkowe\7_3_12\main.c
+	<stdio.h>
+	<stdlib.h>
+
