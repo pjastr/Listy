@@ -15,6 +15,6 @@ struct element * utworz()
 int main()
 {
     struct element* example = utworz();
-    printf("%p",&example);
+    printf("%p",example);
     return 0;
 }
