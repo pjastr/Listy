@@ -59,9 +59,9 @@ int main()
     l1->next->next->i=9;
     l1->next->next->next=NULL;
     wyswietlListeBezGlowy(l1);
-    usun(l1,-4);
+    l1=usun(l1,-4);
     wyswietlListeBezGlowy(l1);
-    usun(l1,33);
+    l1=usun(l1,33);
     wyswietlListeBezGlowy(l1);
     return 0;
 }
